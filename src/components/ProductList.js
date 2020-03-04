@@ -22,7 +22,6 @@ export default class ProductList extends Component {
                     return <Product key={product.id} product = {product}/>;
                   });
                 }}
-
                 </ProductConsumer>
               </div>
             </div>
