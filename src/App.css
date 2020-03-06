@@ -25,3 +25,18 @@ body{
 .text-bright {
   color:var(--lightBlue);
 }
+
+/* .btn-primary {
+  font-size: 1.2rem !important;
+  background: var(--mainBlue) !important;
+} */
+
+.btn-outline-dark {
+  font-size: 1.1rem !important;
+}
+
+.del-icon {
+  font-size: 1.2rem;
+  color: var(--mainYellow);
+  cursor: pointer;
+}
