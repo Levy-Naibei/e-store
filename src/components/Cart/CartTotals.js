@@ -10,7 +10,7 @@ export default function CartTotals({value}) {
             <div className='row'>
                 <div className='col-10 col-sm-8 ml-md-auto ml-sm-5 mt-2 text-capitalize text-right'>
                     <Link to='/'>
-                        <button className='btn btn-outline-danger text-uppercase px-5 mb-3'
+                        <button className='btn btn-outline-danger text-uppercase px-4 mb-3'
                         type='button'
                         onClick={()=>clearCart()}>
                             clear cart
